@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@500&display=swap');
+
+@import "antd/dist/antd.css";
+
+.size_title1 {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Baloo Tammudu 2', cursive !important;
+
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  margin-bottom : 10px;
+}
+
+
+.btn-primary {
+  color: #0d6efd;
+  background-color: #fff;
+  border-color: #0d6efd;
+}
+
+
+.size_title2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Baloo Tammudu 2', cursive !important;
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.size_title3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Baloo Tammudu 2', cursive !important;
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.size_title4 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Baloo Tammudu 2', cursive !important;
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.Form_maker{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top : 50px;
+
+}
