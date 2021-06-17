@@ -4,9 +4,9 @@ export const OPEN_CELL  = 'OPEN_CELL';
 export const FLAG_CELL  = 'FLAG_CELL';
 export const GAME_LOST  = 'GAME_LOST';
 export const RESTART    = 'RESTART';
-export const WIDTH      = 12;
-export const HEIGHT     = 12;
-export const MINE_COUNT = 30;
+export const WIDTH      = 10;
+export const HEIGHT     = 10;
+export const MINE_COUNT = 20;
 export const INC_TIMER  = 'INC_TIMER'
 export const RESET_TIMER  = 'RESET_TIMER'
 

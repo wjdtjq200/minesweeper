@@ -70,7 +70,7 @@ export const expandCell = (board,opened, x, y, width, height) => {
         y = parseInt(y) // string to Integer Number
 
         // 1. 확장단계 
-        if (level > 10){
+        if (level > 9){
             return;
         }
         // 2. 배열이 아닌 곳은 open에 추가되지 않음 
@@ -102,3 +102,4 @@ export const expandCell = (board,opened, x, y, width, height) => {
 
 	return opened;
 };
+
